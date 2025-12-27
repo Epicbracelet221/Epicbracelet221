@@ -1,38 +1,74 @@
-# 💫 About Me:
-Aspiring enthusiastic learner with passion for doing something for my nation and a strong foundation in programming, software, cybersecurity , generative Ai and other skills. Proven ability to apply skills to solve real-world problems and deliver results. Eager to contribute to a team and make a positive impact on the industry.<br><br>Skills<br>• Programming Languages: C, Python, MySQL, HTML, Scratch.🧑🏻‍💻<br><br>• Software: Microsoft PowerPoint, Microsoft Word, Microsoft Excel, Microsoft Access.<br><br><br><br>I am a lifelong learner with a passion for innovation and creativity. I am constantly seeking out new challenges and opportunities to grow my skills and knowledge. I am also a strong believer in the power of collaboration and teamwork.<br><br>I am looking for internship and job opportunities in the field of software engineering. I am also interested in networking with other professionals in the field. Feel free to connect with me on LinkedIn or send me a message if you have any opportunities or advice.
+<div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=250&section=header&text=Architecting%20Intelligence&fontSize=70&fontColor=fff&fontAlignY=35&animation=fadeIn&desc=AI/ML%20Developer%20%7C%20Tech%20Lead%20%7C%20Innovator&descAlignY=55&descAlign=50)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omsharma2005) 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=I+train+models+to+understand+reality.;Building+the+future+with+Google+Gemini.;Technical+Lead+@+GDG+Ranchi.;Pushing+boundaries+of+AI+%26+Cloud." alt="Typing SVG" /></a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Epicbracelet221&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Epicbracelet221&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Epicbracelet221&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-### Achievements 
+<a href="https://linkedin.com/in/omsharma2005" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:omsharma20005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://mastodon.social/@Om Sharma" target="_blank"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"></a>
 
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 
+---
 
+### 👨‍💻 Neural Network & Bio
 
+> *"I bridge the gap between abstract algorithms and tangible reality."*
 
-[![](https://visitcount.itsvg.in/api?id=Epicbracelet221&icon=0&color=0)](https://visitcount.itsvg.in)
+I am an **AI/ML Developer** and **Technical Team Lead** driven by the ambition to solve real-world problems through intelligent systems. My work is validated by certifications from **NVIDIA, Google, and IIM Ahmedabad**. I don't just write code; I cultivate communities as a **GDG Ranchi Lead** and **Google Gemini Campus Ambassador**.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* 🔭 **Current Focus:** Developing scalable ML models & Cloud Infrastructure.
+* 🌱 **Learning:** Advanced Computer Vision & Generative AI Architectures.
+* 🤝 **Open for:** Collaborations on Deep Learning research & Hackathons.
+
+---
+
+### 🛠️ The Arsenal (Tech Stack)
+
+<div align="center">
+
+| **Core Intelligence (AI/ML)** | **Infrastructure & Backend** | **Languages** |
+| :---: | :---: | :---: |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) <br> ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) <br> ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) <br> ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white) |
+
+**🎨 Creative Design Suite**
+<br>
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe%20premiere%20pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white)
+
+</div>
+
+---
+
+### 📊 Computational Metrics
+
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Epicbracelet221&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epicbracelet221&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=jupyter%20notebook" height="180" alt="languages graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Epicbracelet221&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
+</div>
+
+---
+
+### 🏆 Achievements & Clearances
+
+| 🏅 **Certification** | 🏛️ **Authority** |
+| :--- | :--- |
+| **Machine Learning Specialization** | *Google* |
+| **Deep Learning Institute** | *NVIDIA* |
+| **Leadership & Management** | *IIM Ahmedabad* |
+
+<br>
+
+<div align="center">
+    <img src="https://visitcount.itsvg.in/api?id=Epicbracelet221&icon=5&color=6" />
+    <br>
+    <sub><i>"Any sufficiently advanced technology is indistinguishable from magic."</i></sub>
+</div>
