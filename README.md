@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=250&section=header&text=Architecting%20Intelligence&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%2FML%20Developer%20%7C%20Tech%20Lead%20%7C%20Innovator&descAlignY=55&descAlign=50)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1200&color=ff4d4d&center=true&vCenter=true&width=720&lines=I+Train+Models+to+understand+Reality;Building+the+future+with+Advanced+Systems;Technical+Lead+at+GDG+Ranchi;Pushing+the+boundaries+of+AI+and+Cloud" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1200&color=ff4d4d&center=true&vCenter=true&width=720&lines=I+Train+Models+to+understand+Reality;Building+the+future+with+Advanced+Systems;Technical+Lead+@+GDG+Ranchi;Pushing+the+boundaries+of+AI+and+Cloud" />
 </a>
 
 
@@ -57,7 +57,7 @@ I am an **AI/ML Developer** and **Technical Team Lead** focused on solving real-
 
 ### 📊 Computational Metrics
 
-<p align="center">
+<!-- <p align="center">
   <em>Performance snapshot • Language depth • Consistency</em>
 </p>
 
@@ -68,7 +68,7 @@ I am an **AI/ML Developer** and **Technical Team Lead** focused on solving real-
   />
 </p>
 
-<p align="center">
+<!-- <p align="center"> -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epicbracelet221&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=jupyter%20notebook"
     height="165"
@@ -80,7 +80,7 @@ I am an **AI/ML Developer** and **Technical Team Lead** focused on solving real-
     src="https://github-readme-streak-stats.herokuapp.com/?user=Epicbracelet221&theme=tokyonight&hide_border=true&background=0d1117"
     height="155"
   />
-</p>
+</p> -->
 
 
 ---
