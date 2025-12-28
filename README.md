@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=250&section=header&text=Architecting%20Intelligence&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%2FML%20Developer%20%7C%20Tech%20Lead%20%7C%20Innovator&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=#A7C8FC:000000,100:0d1117&height=250&section=header&text=Architecting%20Intelligence&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%2FML%20Developer%20%7C%20Tech%20Lead%20%7C%20Innovator&descAlignY=55&descAlign=50)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1200&color=ff4d4d&center=true&vCenter=true&width=720&lines=I+Train+Models+to+understand+Reality;Building+the+future+with+Advanced+Systems;Technical+Lead+@+GDG+Ranchi;Pushing+the+boundaries+of+AI+and+Cloud" />
